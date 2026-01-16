@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on n8n workflows and Agent Automations. <br>👯 I’m looking to collaborate on CTF's. <br>🌱 I’m currently learning Recons. and Reverse Engineering<br>💬 Ask me about Myself. <br>⚡ Fun fact
+
 
 
 ## 🌐 Socials:
